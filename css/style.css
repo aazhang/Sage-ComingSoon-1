@@ -172,8 +172,16 @@ button {
 	vertical-align: top;
 }
 
+article {
+	margin-left: 48px;
+}
+
+i {
+	margin-right: 22px;
+}
+
 article p {
-	width: 275 px;
+	width: 280 px;
 	margin-top: 15px;
 	margin-bottom: 18px;
 }
